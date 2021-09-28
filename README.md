@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/erelita/3-column-preview-card.git)
-- Live Site URL: [Netlify](https://3-column-previewcard-byer.netlify.app)
+- Live Site URL: [Github](https://erelita.github.io/3-column-preview-card/)
 
 ## My process
 
